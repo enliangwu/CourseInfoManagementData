@@ -1,5 +1,5 @@
 # CourseInfoManagementData
-This is a database for the course information management system project
+This is the database for the course information management system project
 
 
 The raw data for the database is in the `RawData` folder<br />
